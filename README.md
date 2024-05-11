@@ -11,12 +11,12 @@ Models:
 - Decision trees
 - K-NN
 - Hyperparameter Tuning
-    - GridSearch with LinearSVG instead of decisiontree
+    - GridSearch with LinearSVC instead of decisiontree
     - RandomSearch
 - Ensemble Methods:
     - Bagging: Random Forest
     - Boosting: AdaBoost and XGBoost
-    - Voting: VotingClassifier
+    - Voting: VotingClassifier (with DT, KNN, Logistic Regression)
 
 - Evaluation:
     - Accuracy score
