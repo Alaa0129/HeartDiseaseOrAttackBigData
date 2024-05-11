@@ -8,8 +8,9 @@ Over/Under samplings:
 - TomekLinks
 
 Models:
-- Decision trees
-- K-NN
+- Classification
+    - Decision trees
+    - K-NN
 - Hyperparameter Tuning
     - GridSearch with LinearSVC instead of decisiontree
     - RandomSearch
