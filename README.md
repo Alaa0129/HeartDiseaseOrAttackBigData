@@ -1,6 +1,6 @@
 Machine Learning algorithm that predicts heart disease or attack based on the following data set: https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset/data
 
-
+**Navigate to src/05_Optimized_models_training.ipynb for all relevant code.**
 
 Over/Under samplings: 
 - Smote 
